@@ -1,0 +1,5 @@
+.env
+.env.example
+Dockerfile
+node_modules
+sonar-project.properties

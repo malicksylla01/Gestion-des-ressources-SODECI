@@ -1,0 +1,11 @@
+node_modules/
+build/
+.vscode/
+uploads/
+report.20*
+.DS_Store*
+datble.sql
+ecosystem.config.js
+api_know_hosts
+swagger.json
+bitbucket-pipelines.yml
